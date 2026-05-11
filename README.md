@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @vtdong1709
-- 👀 I’m interested in Coding and Music
-- 🌱 I’m currently learning ReactJS - NodeJS
-- 📫 How to reach me: taidong.work@gmail.com
-- ⚡ Fun fact: relax -> eat -> sleep -> do workout, bug will be fixed.
+# 👋 Hi, I'm Dong
 
-<!---
-vtdong1709/vtdong1709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Fresh Graduate | Full-stack Developer (React / Node.js / .NET)**  
+💻 Passionate about building web applications and mobile applications; continuously improving my development skills.
+
+---
+
+## About Me
+- Interested in **Web Development, Mobile Application Development, Software Engineering**
+- Currently learning and improving **React.js, Node.js, and .NET**
+- Exploring **AI development tools and basic AI/ML applications**
+- Love solving bugs and learning from real-world projects
+
+---
+
+## Tech Stack
+- Frontend: ReactJS, TypeScript, HTML, CSS, TailwindCSS
+- Backend: Node.js, .NET Core
+- Database: MySQL, PostgreSQL, MongoDB, Cloud Storage
+- Tools: Git, GitHub, Docker (basic), AI coding tools
+
+---
+
+## Projects
+- Fullstack Web App (React + Node.js)
+- REST API system using .NET Core, NodeJS
+- AI-assisted learning / research project
+
+---
+
+## Contact
+- Email: **taidong.work@gmail.com**
+- GitHub: @vtdong1709
+
+---
+
+## Fun Fact
+Eat 🍜 → Code 💻 → Bug 🐛 → Fix 🔧 → Sleep 😴 → Repeat
