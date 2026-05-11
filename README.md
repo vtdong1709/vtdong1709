@@ -17,6 +17,8 @@
 - Frontend: ReactJS, TypeScript, HTML, CSS, TailwindCSS
 - Backend: Node.js, .NET Core
 - Database: MySQL, PostgreSQL, MongoDB, Cloud Storage
+- DevOps: Docker, Github Action, Dozzle
+- AI/ML: RAG, Vector Database
 - Tools: Git, GitHub, Docker (basic), AI coding tools
 
 ---
